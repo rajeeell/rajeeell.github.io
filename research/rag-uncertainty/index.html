@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Perplexity reached 0.81–0.91 AUROC on length-matched edits. With only one retrieved passage, its performance could fall below chance.">
+<meta name="theme-color" content="#fcfbf8">
+<title>When Does Uncertainty Measure RAG Hallucination Risk? | Rajeel Ahmad Ansari</title>
+<link rel="stylesheet" href="../../site.css">
+</head><body><a class="skip" href="#main">Skip to content</a>
+<header class="site-head"><div class="wrap head-inner">
+<a href="../../index.html" class="wordmark">Rajeel Ahmad Ansari</a>
+<nav class="nav" aria-label="Main navigation">
+<a href="../../index.html#research" aria-current="true">Research</a>
+<a href="../../index.html#experience">Experience</a>
+<a href="../../index.html#about">About</a>
+<a href="../../cv.pdf" class="cv-nav">CV <span class="file-type">PDF</span></a>
+</nav></div></header>
+<main id="main" class="wrap">
+<div class="article-top"><a class="crumb" href="../../index.html#research">← All research</a>
+<h1>When Does Uncertainty Measure RAG Hallucination Risk?</h1>
+<p class="standfirst">Perplexity reached 0.81–0.91 AUROC on length-matched edits. With only one retrieved passage, its performance could fall below chance.</p>
+<p class="credit">Rajeel Ahmad Ansari and Tautik Agrahari · ICNLSP 2026 oral presentation</p>
+<div class="paper-actions"><a href="https://aclanthology.org/2026.icnlsp-1.6/" class="action">Read on ACL Anthology ↗</a></div>
+</div>
+<div class="article-body"><div class="prose"><section><h2>The controlled test</h2><p>Across four models and two datasets, HotpotQA and SQuAD, we compared supported answers with answers containing targeted unsupported edits. We matched answer lengths to reduce the chance that the detector was picking up on length.</p><p>Sequence-level perplexity reached <strong>0.81–0.91 AUROC</strong> in that setting. The numbers describe the controlled edit experiment.</p></section><section><h2>What one passage changed</h2><p>A separate experiment reduced retrieval to a single passage. In two model–dataset combinations, the perplexity signal reversed, with AUROC falling below 0.50. The figure shows those settings.</p><p>The result changes how I would use uncertainty in an evaluation. Retrieval depth and evidence quality belong in the test design because the score can behave differently when retrieval is sparse.</p></section></div><aside class="article-aside" aria-label="Results and publication details"><figure class="folio" aria-labelledby="rag-figure-title">
+<p class="eyebrow">From the ICNLSP paper</p>
+<h2 id="rag-figure-title">One retrieved passage</h2>
+<div class="chart" aria-label="Perplexity AUROC by model and dataset">
+  <div class="chart-row"><span class="chart-label">Gemma-3-4B · HotpotQA</span><strong class="test-value">0.285</strong><div class="track" aria-hidden="true"><span class="bar" style="--value:28.5%"></span></div></div>
+  <div class="chart-row"><span class="chart-label">Qwen2.5-14B · SQuAD</span><strong class="test-value">0.200</strong><div class="track" aria-hidden="true"><span class="bar" style="--value:20%"></span></div></div>
+  <div class="chart-axis" aria-hidden="true"><span>0</span><span>0.50 chance</span><span>1.00 AUROC</span></div>
+</div>
+<figcaption>Perplexity fell below chance in these two single-passage settings. <a href="https://aclanthology.org/2026.icnlsp-1.6.pdf">Paper, §3.2</a></figcaption>
+</figure><div class="publication"><strong>When Does Uncertainty Measure RAG Hallucination Risk?</strong><p>ICNLSP 2026 · Archival proceedings, pp. 53–58</p><a href="https://aclanthology.org/2026.icnlsp-1.6/" class="quiet-link">ACL Anthology ↗</a></div><div class="publication"><strong>Related workshop versions</strong><p>AI Measurement Science at COLM (organized by Stanford AIMS), GroundLM at EMNLP, and SeT-LLM at KDD, 2026.</p></div><div class="about-links"><a href="https://aims.stanford.edu/workshop">AIMS</a><a href="https://groundlm.github.io/grouplm_emnlp2026/">GroundLM</a><a href="https://secure-and-trustworthy-llm.github.io/">SeT-LLM</a></div></aside></div>
+<div class="article-end"><a href="../../index.html#research">← All research</a><a href="../candidate-exposure/index.html">Candidate Exposure and Abstention in Entity Linking →</a></div>
+</main><footer class="site-foot"><div class="wrap foot-inner"><span>Rajeel Ahmad Ansari</span><div class="links"><a href="mailto:rajeelansari@gmail.com">Email</a><a href="https://github.com/rajeeell">GitHub</a><a href="https://www.linkedin.com/in/rajeel-ansari/">LinkedIn</a></div></div></footer></body></html>
