@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="We held the tool result fixed and changed only the displayed URL host to measure how often models accepted corrupted outputs or deferred on reliable ones.">
+<meta name="theme-color" content="#fcfbf8">
+<title>When Agents Trust the Wrong Tool Output | Rajeel Ahmad Ansari</title>
+<link rel="stylesheet" href="../../site.css">
+</head><body><a class="skip" href="#main">Skip to content</a>
+<header class="site-head"><div class="wrap head-inner">
+<a href="../../index.html" class="wordmark">Rajeel Ahmad Ansari</a>
+<nav class="nav" aria-label="Main navigation">
+<a href="../../index.html#research" aria-current="true">Research</a>
+<a href="../../index.html#experience">Experience</a>
+<a href="../../index.html#about">About</a>
+<a href="../../cv.pdf" class="cv-nav">CV <span class="file-type">PDF</span></a>
+</nav></div></header>
+<main id="main" class="wrap">
+<div class="article-top"><a class="crumb" href="../../index.html#research">← All research</a>
+<h1>When Agents Trust the Wrong Tool Output</h1>
+<p class="standfirst">We held the tool result fixed and changed only the displayed URL host to measure how often models accepted corrupted outputs or deferred on reliable ones.</p>
+<p class="credit">Chirag Gupta and Rajeel Ahmad Ansari · IAB and MusIML workshops at NeurIPS 2026</p>
+<div class="paper-actions"><a href="https://openreview.net/forum?id=Noe4aYx9A2" class="action">Read on OpenReview ↗</a></div>
+</div>
+<div class="article-body"><div class="prose"><section><h2>A paired host change</h2><p>On a paired 50-source benchmark, we changed only the displayed URL host. Under two caution-oriented prompts, GPT-5.4 mini initially accepted <strong>4 of 19</strong> and <strong>5 of 19</strong> false values about the correct entity. Both fell to zero after the host change.</p></section><section><h2>The cost of deferring</h2><p>On the 50 reliable outputs, deferrals rose from <strong>1 of 50</strong> to <strong>33 of 50</strong> and <strong>30 of 50</strong> under the two prompts. These counts describe this model, prompt pair, and benchmark.</p><p>Both outcomes matter when measuring whether a tool-using system handles evidence well. A system that accepts fewer wrong answers can also be much less useful on inputs it had enough evidence to answer.</p></section></div><aside class="article-aside" aria-label="Results and publication details"><figure class="folio" aria-labelledby="result-title">
+<p class="eyebrow">GPT-5.4 mini · Paired ablation</p><h2 id="result-title">Effect of changing the host</h2>
+<table class="figure-table"><thead><tr><th scope="col">Outcome</th><th scope="col">Prompt 1</th><th scope="col">Prompt 2</th></tr></thead>
+<tbody><tr><td>False values accepted</td><td>4/19 → 0/19</td><td>5/19 → 0/19</td></tr><tr><td>Reliable outputs deferred</td><td>1/50 → 33/50</td><td>1/50 → 30/50</td></tr></tbody></table>
+<figcaption>The false-value counts refer to errors about the correct entity.</figcaption>
+</figure><div class="publication"><strong>When Agents Trust the Wrong Tool Output: Acceptance Across Corruption Types and a URL-Host Ablation</strong><p>Chirag Gupta and Rajeel Ahmad Ansari · IAB at NeurIPS 2026 · Accepted paper</p><a href="https://openreview.net/forum?id=Noe4aYx9A2" class="quiet-link">OpenReview ↗</a></div><div class="publication"><strong>MusIML workshop version</strong><p>MusIML at NeurIPS 2026 · Accepted poster</p><a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MusIML" class="quiet-link">Workshop listing ↗</a></div></aside></div>
+<div class="article-end"><a href="../../index.html#research">← All research</a><a href="../rag-uncertainty/index.html">When Does Uncertainty Measure RAG Hallucination Risk? →</a></div>
+</main><footer class="site-foot"><div class="wrap foot-inner"><span>Rajeel Ahmad Ansari</span><div class="links"><a href="mailto:rajeelansari@gmail.com">Email</a><a href="https://github.com/rajeeell">GitHub</a><a href="https://www.linkedin.com/in/rajeel-ansari/">LinkedIn</a></div></div></footer></body></html>
