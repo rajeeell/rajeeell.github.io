@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Holding the query fixed, we tested whether the entities shown to a model change its willingness to abstain.">
+<meta name="theme-color" content="#fcfbf8">
+<title>Candidate Exposure and Abstention in Entity Linking | Rajeel Ahmad Ansari</title>
+<link rel="stylesheet" href="../../site.css">
+</head><body><a class="skip" href="#main">Skip to content</a>
+<header class="site-head"><div class="wrap head-inner">
+<a href="../../index.html" class="wordmark">Rajeel Ahmad Ansari</a>
+<nav class="nav" aria-label="Main navigation">
+<a href="../../index.html#research" aria-current="true">Research</a>
+<a href="../../index.html#experience">Experience</a>
+<a href="../../index.html#about">About</a>
+<a href="../../cv.pdf" class="cv-nav">CV <span class="file-type">PDF</span></a>
+</nav></div></header>
+<main id="main" class="wrap">
+<div class="article-top"><a class="crumb" href="../../index.html#research">← All research</a>
+<h1>Candidate Exposure and Abstention in Entity Linking</h1>
+<p class="standfirst">Holding the query fixed, we tested whether the entities shown to a model change its willingness to abstain.</p>
+<p class="credit">Solo-authored TAE poster · Expanded EvoRobust paper with Chirag Gupta</p>
+<div class="paper-actions"><a href="https://openreview.net/forum?id=VpPb637w2W" class="action">Read the TAE paper ↗</a></div>
+</div>
+<div class="article-body"><div class="prose"><section><h2>Changing the candidate list</h2><p>In selective entity linking, a system should abstain when it finds no supported entity. In the TAE study, I held each query fixed and compared retrieved candidates with alternatives including random candidates.</p><p>For GPT-OSS 20B on benchmark-NIL queries, the retrieved lists increased entity selection by <strong>6.3 percentage points on Beauty</strong> and <strong>10.7 on ESCI</strong> relative to random lists.</p></section><section><h2>Testing the effect beyond the first setup</h2><p>The co-authored extension added semantic-profile hard negatives, list-size controls, and transfer tests on Wikipedia and French and German historical news.</p><p>We also tested Structured Support Verification. On a frozen product-search test across three verifier models, it retained <strong>87.7–92.0%</strong> of gold proposals and rejected <strong>85.3–86.3%</strong> of plausible same-query alternatives. Those ranges describe the frozen verifier test.</p></section></div><aside class="article-aside" aria-label="Results and publication details"><figure class="folio" aria-labelledby="result-title">
+<p class="eyebrow">Benchmark-NIL queries</p><h2 id="result-title">Retrieved vs. random</h2>
+<table class="figure-table"><thead><tr><th scope="col">Dataset</th><th scope="col">Change in selection</th></tr></thead>
+<tbody><tr><td>Beauty</td><td>+6.3 pp</td></tr><tr><td>ESCI</td><td>+10.7 pp</td></tr></tbody></table>
+<figcaption>GPT-OSS 20B. Matched comparison with the query held fixed.</figcaption>
+</figure><div class="publication"><strong>Candidate Exposure Changes Abstention: Auditing Construct Validity in Grounded LLM Evaluation</strong><p>Rajeel Ahmad Ansari · TAE at NeurIPS 2026 · Accepted poster</p><a href="https://openreview.net/forum?id=VpPb637w2W" class="quiet-link">OpenReview ↗</a></div><div class="publication"><strong>Candidate Exposure Changes Abstention: Measuring Candidate-Induced Selection and Support Verification</strong><p>Rajeel Ahmad Ansari and Chirag Gupta · EvoRobust at NeurIPS 2026 · Accepted paper</p><a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/EvoRobust" class="quiet-link">Workshop listing ↗</a></div></aside></div>
+<div class="article-end"><a href="../../index.html#research">← All research</a><a href="../tool-output-trust/index.html">When Agents Trust the Wrong Tool Output →</a></div>
+</main><footer class="site-foot"><div class="wrap foot-inner"><span>Rajeel Ahmad Ansari</span><div class="links"><a href="mailto:rajeelansari@gmail.com">Email</a><a href="https://github.com/rajeeell">GitHub</a><a href="https://www.linkedin.com/in/rajeel-ansari/">LinkedIn</a></div></div></footer></body></html>
