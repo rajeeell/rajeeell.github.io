@@ -1,0 +1,338 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [13 0 R 30 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Italic /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 7917 >>
+stream
+0.09 0.10 0.11 rg BT /F1 22 Tf 1 0 0 1 210.69 748.00 Tm (Rajeel Ahmad Ansari) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.2 Tf 1 0 0 1 208.53 718.00 Tm (rajeelansari@gmail.com) Tj ET
+0.10 0.23 0.38 RG 0.4 w 208.53 716.55 m 308.28 716.55 l S
+0.09 0.10 0.11 rg BT /F1 10.2 Tf 1 0 0 1 308.28 718.00 Tm (  ∑  ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.2 Tf 1 0 0 1 321.88 718.00 Tm (LinkedIn) Tj ET
+0.10 0.23 0.38 RG 0.4 w 321.88 716.55 m 359.27 716.55 l S
+0.09 0.10 0.11 rg BT /F1 10.2 Tf 1 0 0 1 359.27 718.00 Tm (  ∑  ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.2 Tf 1 0 0 1 372.87 718.00 Tm (GitHub) Tj ET
+0.10 0.23 0.38 RG 0.4 w 372.87 716.55 m 403.47 716.55 l S
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 691.80 Tm (Education) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 687.80 m 572 687.80 l S
+0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 40.00 671.80 Tm (SRM Institute of Science and Technology, Kattankulathur, Chennai) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 519.00 671.80 Tm (2021 ñ 2025) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 40.00 656.80 Tm (B.Tech in Computer Science with specialization in AI/ML) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 505.17 656.80 Tm (GPA: 8.33/10.0) Tj ET
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 632.80 Tm (Experience) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 628.80 m 572 628.80 l S
+0.10 0.23 0.38 rg BT /F2 10.6 Tf 1 0 0 1 40.00 612.80 Tm (Dylog.ai) Tj ET
+0.10 0.23 0.38 RG 0.4 w 40.00 611.35 m 77.40 611.35 l S
+0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 537.27 612.80 Tm (Remote) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 40.00 597.80 Tm (AI Software Engineer \(Full-time\)) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 475.72 597.80 Tm (August 2025 ñ Present) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 40.00 581.80 Tm (Software Engineering Intern) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 456.00 581.80 Tm (February 2025 ñ July 2025) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 565.80 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 565.80 Tm (Built a seasonal campaign recommendation system that uses Chronos-2 forecasts to recommend what to promote, when) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 552.20 Tm (to start, and how long to run each campaign.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 534.60 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 534.60 Tm (Backtested campaign recommendations against random selection and expanded product-category coverage by) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 521.00 Tm (classifying previously uncategorized items.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 503.40 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 503.40 Tm (Built an invoice extraction API that converts PDFs, handwritten scans, and Excel files into structured line items with) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 489.80 Tm (product names, quantities, and part numbers. Added configurable model fallbacks and improved part-number) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 476.20 Tm (extraction from spreadsheets.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 458.60 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 458.60 Tm (Built an email extraction API that classifies quote requests, price checks, and direct orders, extracts purchase-order) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 445.00 Tm (details, and combines line items from email bodies and attachments processed in parallel.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 427.40 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 427.40 Tm (Built an LLM-based evaluation harness that graded the top 12 product search results per query and tracked whether an) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 413.80 Tm (exact match appeared first or within the top three.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 396.20 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 396.20 Tm (Implemented a configurable ONNX-based alternative to ColBERT that retrieves candidate brands from product search) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 382.60 Tm (queries for downstream LLM selection.) Tj ET
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 357.00 Tm (Publications) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 353.00 m 572 353.00 l S
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 337.00 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 337.00 Tm (When Does Uncertainty Measure RAG Hallucination Risk?) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 323.40 Tm (Rajeel Ahmad Ansari) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 156.26 323.40 Tm ( and Tautik Agrahari.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 309.80 Tm (ICNLSP 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 120.31 309.80 Tm ( \(oral\), pp. 53ñ58. ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 200.25 309.80 Tm (ACL Anthology) Tj ET
+0.10 0.23 0.38 RG 0.4 w 200.25 308.35 m 270.10 308.35 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 270.10 309.80 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 296.20 Tm (Sequence-level perplexity achieved 0.81ñ0.91 AUROC on length-matched answers with targeted unsupported edits) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 282.60 Tm (across four models on HotpotQA and SQuAD. A separate single-passage retrieval test showed that the signal could) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 269.00 Tm (weaken or reverse.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 251.40 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 251.40 Tm (Image Captioning using CNN and LSTMs) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 236.25 251.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 237.80 Tm (Rajeel Ahmad Ansari) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 156.26 237.80 Tm (, Divyapratap Singh Chauhan, B. Jothi, and Krishnaveni S.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 224.20 Tm (ICISCN 2025) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 118.52 224.20 Tm (, pp. 1ñ8. ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 161.32 224.20 Tm (IEEE Xplore / DOI) Tj ET
+0.10 0.23 0.38 RG 0.4 w 161.32 222.75 m 244.23 222.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 244.23 224.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 210.60 Tm (Evaluated an attention-based CNNñLSTM captioning model with beam-search decoding on Flickr8k.) Tj ET
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 185.00 Tm (Technical Skills) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 181.00 m 572 181.00 l S
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 165.00 Tm (Programming) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 107.19 165.00 Tm ( ∑ Python, C++, SQL) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 150.40 Tm (ML Methods) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 102.74 150.40 Tm ( ∑ NLP, computer vision, information retrieval, entity linking, RAG, time-series forecasting) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 135.80 Tm (Research and Evaluation) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 157.74 135.80 Tm ( ∑ LLM evaluation, ablation studies, calibration, search relevance evaluation) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 121.20 Tm (ML Tools) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 87.89 121.20 Tm ( ∑ PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, LlamaIndex, ONNX) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 106.60 Tm (Data Analysis) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 106.31 106.60 Tm ( ∑ pandas, NumPy, Matplotlib, Seaborn) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 92.00 Tm (Software Development) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 146.70 92.00 Tm ( ∑ FastAPI, REST APIs, Google Cloud Storage, Git, Postman) Tj ET
+0.09 0.10 0.11 rg BT /F1 9 Tf 1 0 0 1 293.00 25.00 Tm (1 / 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [208.53 715.50 308.28 728.20] /Border [0 0 0] /A << /S /URI /URI (mailto:rajeelansari@gmail.com) >> >>
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [321.88 715.50 359.27 728.20] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/rajeel-ansari/) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [372.87 715.50 403.47 728.20] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rajeeell) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [40.00 610.30 77.40 623.40] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/company/dylog-ai/posts/?feedView=all) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [200.25 307.30 270.10 320.50] /Border [0 0 0] /A << /S /URI /URI (https://aclanthology.org/2026.icnlsp-1.6/) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [161.32 221.70 244.23 234.90] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1109/ICISCN64258.2025.10934331) >> >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R] >>
+endobj
+14 0 obj
+<< /Length 10748 >>
+stream
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 740.00 Tm (Workshop Papers & Posters) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 736.00 m 572 736.00 l S
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 720.00 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 720.00 Tm (Candidate Exposure and Abstention in Entity Linking) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 304.94 720.00 Tm ( ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 307.62 720.00 Tm (\(research project\)) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 706.40 Tm (Candidate Exposure Changes Abstention: Auditing Construct Validity in Grounded LLM Evaluation) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 487.99 706.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 692.80 Tm (Rajeel Ahmad Ansari) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 156.26 692.80 Tm ( \(sole author\).) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 679.20 Tm (TAE Workshop, NeurIPS 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 199.09 679.20 Tm ( \(accepted poster\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 280.49 679.20 Tm (OpenReview) Tj ET
+0.10 0.23 0.38 RG 0.4 w 280.49 677.75 m 336.36 677.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 336.36 679.20 Tm ( | ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 343.85 679.20 Tm (Accepted papers) Tj ET
+0.10 0.23 0.38 RG 0.4 w 343.85 677.75 m 414.85 677.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 414.85 679.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 665.60 Tm (For GPT-OSS 20B on benchmark-NIL queries, retrieved versus random candidate lists increased entity selection by 6.3) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 652.00 Tm (percentage points on Beauty and 10.7 on ESCI.) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 638.40 Tm (Candidate Exposure Changes Abstention: Measuring Candidate-Induced Selection and Support Verification) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 522.13 638.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 624.80 Tm (Rajeel Ahmad Ansari) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 156.26 624.80 Tm ( and Chirag Gupta.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 611.20 Tm (EvoRobust Workshop, NeurIPS 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 227.62 611.20 Tm ( \(accepted paper\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 306.64 611.20 Tm (Workshop listing, submission 59) Tj ET
+0.10 0.23 0.38 RG 0.4 w 306.64 609.75 m 447.54 609.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 447.54 611.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 597.60 Tm (Extended the candidate-exposure study with semantic-profile hard negatives, candidate-list size controls, Mistral Small) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 584.00 Tm (3.1 24B, and transfer tests on Wikipedia and French and German historical news. On the frozen Beauty/ESCI) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 570.40 Tm (product-search test across three verifier models, Structured Support Verification retained 87.7ñ92.0% of gold proposals) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 556.80 Tm (and rejected 85.3ñ86.3% of plausible same-query alternatives.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 536.20 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 536.20 Tm (When Agents Trust the Wrong Tool Output: Acceptance Across Corruption Types and a URL-Host Ablation) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 519.46 536.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 522.60 Tm (Chirag Gupta and ) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 135.75 522.60 Tm (Rajeel Ahmad Ansari) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 235.02 522.60 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 509.00 Tm (IAB Workshop, NeurIPS 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 196.11 509.00 Tm ( \(accepted paper\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 275.13 509.00 Tm (OpenReview) Tj ET
+0.10 0.23 0.38 RG 0.4 w 275.13 507.55 m 330.99 507.55 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 330.99 509.00 Tm ( | ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 338.48 509.00 Tm (Accepted papers) Tj ET
+0.10 0.23 0.38 RG 0.4 w 338.48 507.55 m 409.49 507.55 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 409.49 509.00 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 495.40 Tm (MusIML Workshop, NeurIPS 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 218.70 495.40 Tm ( \(accepted poster\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 300.10 495.40 Tm (Workshop listing, submission 58) Tj ET
+0.10 0.23 0.38 RG 0.4 w 300.10 493.95 m 441.00 493.95 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 441.00 495.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 481.80 Tm (In a paired 50-source URL-host ablation, GPT-5.4 mini accepted 4/19 and 5/19 false values about the correct entity) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 468.20 Tm (under two caution-oriented prompts. Both fell to 0/19 after the host change. Deferrals on reliable outputs rose from) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 454.60 Tm (1/50 to 33/50 and 30/50, respectively.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 434.00 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 434.00 Tm (RAG Hallucination Risk under Retrieval Shift) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 268.93 434.00 Tm ( ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 271.61 434.00 Tm (\(research project\)) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 420.40 Tm (Rajeel Ahmad Ansari) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 156.26 420.40 Tm ( and Tautik Agrahari. Workshop versions of the ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 363.98 420.40 Tm (ICNLSP 2026 paper) Tj ET
+0.10 0.23 0.38 RG 0.4 w 363.98 418.95 m 451.36 418.95 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 451.36 420.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 406.80 Tm (AI Measurement Science Workshop, COLM 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 284.65 406.80 Tm ( \(accepted paper, organized by Stanford AIMS\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 493.54 406.80 Tm (Workshop) Tj ET
+0.10 0.23 0.38 RG 0.4 w 493.54 405.35 m 538.11 405.35 l S
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 57.00 393.20 Tm (listing, submission 35) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 391.75 m 150.65 391.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 150.65 393.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 379.60 Tm (GroundLM Workshop, EMNLP 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 229.41 379.60 Tm ( \(accepted paper\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 308.43 379.60 Tm (Workshop listing) Tj ET
+0.10 0.23 0.38 RG 0.4 w 308.43 378.15 m 382.44 378.15 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 382.44 379.60 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 366.00 Tm (Auditing Uncertainty as a RAG Hallucination Signal under Retrieval Shift) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 375.32 366.00 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 352.40 Tm (SeT-LLM Workshop, KDD 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 206.81 352.40 Tm ( \(accepted poster\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 288.22 352.40 Tm (Workshop listing, submission 15) Tj ET
+0.10 0.23 0.38 RG 0.4 w 288.22 350.95 m 429.11 350.95 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 429.11 352.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 323.80 Tm (Academic Service) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 319.80 m 572 319.80 l S
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 40.00 303.80 Tm (Peer Reviewer) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 289.20 Tm (ï) Tj ET
+0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 289.20 Tm (VLM4RWD) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 287.75 m 113.46 287.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 113.46 289.20 Tm ( \(Grounded and Faithful Vision-Language Models for Real-World Deployment\), ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 461.75 289.20 Tm (NeurIPS 2026 workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 566.96 289.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 271.60 Tm (ï) Tj ET
+0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 271.60 Tm (GroundLM) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 270.15 m 110.51 270.15 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 110.51 271.60 Tm ( \(Grounding Language Models: Learning Faithfully and Efficiently\), ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 407.39 271.60 Tm (EMNLP 2026 workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 510.83 271.60 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 254.00 Tm (ï) Tj ET
+0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 254.00 Tm (REALM) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 252.55 m 96.83 252.55 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 96.83 254.00 Tm ( \(Workshop for Research on Agent Language Models\), ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 335.44 254.00 Tm (EMNLP 2026 workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 438.87 254.00 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 236.40 Tm (ï) Tj ET
+0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 236.40 Tm (WNUT) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 234.95 m 90.29 234.95 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 90.29 236.40 Tm ( \(Workshop on Natural User-generated Text\), ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 288.47 236.40 Tm (EMNLP 2026 workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 391.91 236.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 210.80 Tm (Extracurricular Involvement) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 206.80 m 572 206.80 l S
+0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 40.00 190.80 Tm (Crewsphere SRM) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 446.57 190.80 Tm (February 2024 ñ April 2024) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 40.00 175.80 Tm (Technical Lead) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 159.80 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 159.80 Tm (Contributed to the club's early growth by organizing the Crewsphere: ICP India Hub Chennai Incubator launch event,) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 146.20 Tm (promoting decentralized innovation and collaboration.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 128.60 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 128.60 Tm (Mentored junior students, providing technical guidance and support to enhance their projects and skills.) Tj ET
+0.09 0.10 0.11 rg BT /F1 9 Tf 1 0 0 1 293.00 25.00 Tm (2 / 2) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Annot /Subtype /Link /Rect [280.49 676.70 336.36 689.90] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=VpPb637w2W) >> >>
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Link /Rect [343.85 676.70 414.85 689.90] /Border [0 0 0] /A << /S /URI /URI (https://tai-eval.github.io/papers/) >> >>
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Link /Rect [306.64 608.70 447.54 621.90] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/EvoRobust) >> >>
+endobj
+18 0 obj
+<< /Type /Annot /Subtype /Link /Rect [275.13 506.50 330.99 519.70] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=Noe4aYx9A2) >> >>
+endobj
+19 0 obj
+<< /Type /Annot /Subtype /Link /Rect [338.48 506.50 409.49 519.70] /Border [0 0 0] /A << /S /URI /URI (https://iab-agents.github.io/accepted-papers/) >> >>
+endobj
+20 0 obj
+<< /Type /Annot /Subtype /Link /Rect [300.10 492.90 441.00 506.10] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/MusIML) >> >>
+endobj
+21 0 obj
+<< /Type /Annot /Subtype /Link /Rect [363.98 417.90 451.36 431.10] /Border [0 0 0] /A << /S /URI /URI (https://aclanthology.org/2026.icnlsp-1.6/) >> >>
+endobj
+22 0 obj
+<< /Type /Annot /Subtype /Link /Rect [493.54 404.30 538.11 417.50] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/AIMS) >> >>
+endobj
+23 0 obj
+<< /Type /Annot /Subtype /Link /Rect [57.00 390.70 150.65 403.90] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/AIMS) >> >>
+endobj
+24 0 obj
+<< /Type /Annot /Subtype /Link /Rect [308.43 377.10 382.44 390.30] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/group?id=EMNLP/2026/Workshop/GroundLM) >> >>
+endobj
+25 0 obj
+<< /Type /Annot /Subtype /Link /Rect [288.22 349.90 429.11 363.10] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/group?id=KDD.org/2026/Workshop/SeT-LLM) >> >>
+endobj
+26 0 obj
+<< /Type /Annot /Subtype /Link /Rect [57.00 286.70 113.46 299.90] /Border [0 0 0] /A << /S /URI /URI (https://vlm4rwd.github.io/index.html) >> >>
+endobj
+27 0 obj
+<< /Type /Annot /Subtype /Link /Rect [57.00 269.10 110.51 282.30] /Border [0 0 0] /A << /S /URI /URI (https://groundlm.github.io/grouplm_emnlp2026/) >> >>
+endobj
+28 0 obj
+<< /Type /Annot /Subtype /Link /Rect [57.00 251.50 96.83 264.70] /Border [0 0 0] /A << /S /URI /URI (https://realm-workshop.github.io/2026-emnlp/) >> >>
+endobj
+29 0 obj
+<< /Type /Annot /Subtype /Link /Rect [57.00 233.90 90.29 247.10] /Border [0 0 0] /A << /S /URI /URI (https://aclanthology.org/volumes/2026.wnut-1/) >> >>
+endobj
+30 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R /Annots [15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R] >>
+endobj
+xref
+0 31
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000129 00000 n 
+0000000228 00000 n 
+0000000326 00000 n 
+0000000426 00000 n 
+0000008395 00000 n 
+0000008550 00000 n 
+0000008718 00000 n 
+0000008871 00000 n 
+0000009057 00000 n 
+0000009225 00000 n 
+0000009401 00000 n 
+0000009597 00000 n 
+0000020399 00000 n 
+0000020568 00000 n 
+0000020729 00000 n 
+0000020922 00000 n 
+0000021091 00000 n 
+0000021263 00000 n 
+0000021453 00000 n 
+0000021621 00000 n 
+0000021815 00000 n 
+0000022008 00000 n 
+0000022195 00000 n 
+0000022383 00000 n 
+0000022545 00000 n 
+0000022716 00000 n 
+0000022885 00000 n 
+0000023055 00000 n 
+trailer
+<< /Size 31 /Root 1 0 R >>
+startxref
+23318
+%%EOF

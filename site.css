@@ -1,0 +1,196 @@
+:root {
+  color-scheme: light;
+  --paper: #fcfbf8;
+  --ink: #222427;
+  --muted: #575c63;
+  --link: #254b76;
+  --rule: #d8d8d1;
+  --chart-track: #e5e8ec;
+  --display: "Baskervville", Georgia, serif;
+  --text: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 1rem/1.65 var(--text);
+}
+
+h1, h2, h3, p, figure, dl, dd { margin: 0; }
+h1, h2, h3 { line-height: 1.2; }
+h1, h2 { font-family: var(--display); font-weight: 400; }
+h3 { font-size: 1.0625rem; font-weight: 650; }
+p + p { margin-top: .75rem; }
+strong { font-weight: 650; }
+
+a {
+  color: var(--link);
+  text-underline-offset: .2em;
+  text-decoration-thickness: 1px;
+}
+a:hover { text-decoration-thickness: 2px; }
+a:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; }
+[id] { scroll-margin-top: 1.25rem; }
+
+.wrap {
+  width: calc(100% - 3rem);
+  max-width: 50rem;
+  margin-inline: auto;
+}
+
+.skip {
+  position: fixed;
+  z-index: 1;
+  top: .75rem;
+  left: .75rem;
+  padding: .5rem .75rem;
+  background: var(--paper);
+  transform: translateY(-200%);
+}
+.skip:focus { transform: none; }
+
+.head-inner, .foot-inner {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .65rem 2rem;
+  flex-wrap: wrap;
+}
+.head-inner {
+  min-height: 3.8rem;
+  padding-block: 1.05rem .9rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.nav, .links, .about-links, .paper-actions, .article-end {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem 1.25rem;
+}
+.nav, .wordmark, .site-foot, .links, .about-links { font-size: .9rem; }
+.nav a, .wordmark {
+  color: var(--ink);
+  text-decoration: none;
+}
+.nav a:hover, .nav a[aria-current], .wordmark:hover { text-decoration: underline; }
+.home-head .nav { flex: 1; }
+.home-head .cv-nav { margin-left: auto; }
+.wordmark { font-weight: 650; }
+.file-type { margin-left: .25em; color: var(--muted); font-size: .72em; }
+
+.profile { padding-block: 2.8rem 2.4rem; }
+.profile h1 { font-size: clamp(2.1rem, 6vw, 3.15rem); }
+.intro { max-width: 41rem; margin-top: .8rem; }
+.profile-links {
+  list-style: none;
+  margin: .95rem 0 0;
+  padding: 0;
+}
+
+.band {
+  display: grid;
+  grid-template-columns: 9.75rem minmax(0, 1fr);
+  gap: .75rem 1.35rem;
+  padding-block: 1.45rem 1.75rem;
+  border-top: 1px solid var(--rule);
+}
+.band > h2 { font-size: 1.3rem; }
+.entries > * + * { margin-top: 1.15rem; }
+.study + .study {
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+
+.study h3 a, .publication h3 a {
+  color: var(--ink);
+  text-decoration-color: #8f989e;
+}
+.study h3 a:hover, .publication h3 a:hover { color: var(--link); }
+.study h3 + .meta, .publication h3 + .meta { margin-top: .25rem; }
+.meta, .related, .credit, figcaption { color: var(--muted); }
+.meta, .related, .source-link, .roles dd, .credit, figcaption { font-size: .875rem; }
+.study .meta + p, .publication .meta + p, .work-row h3 + p { margin-top: .4rem; }
+.study p + .related { margin-top: .3rem; }
+.source-link { display: inline-block; margin-top: .35rem; }
+
+.company { font-size: 1.15rem; }
+.roles { margin-top: .35rem; }
+.roles div { display: flex; flex-wrap: wrap; gap: 0 .7rem; }
+.roles dt { font-weight: 600; }
+.roles dd { color: var(--muted); }
+
+.foot-inner {
+  padding-block: .95rem 1.8rem;
+  color: var(--muted);
+  border-top: 1px solid var(--rule);
+}
+
+.article-top {
+  padding-block: 1.85rem 1.55rem;
+  border-bottom: 1px solid var(--rule);
+}
+.crumb { font-size: .875rem; }
+.article-top h1 { margin-top: .75rem; font-size: clamp(1.95rem, 5.2vw, 2.9rem); }
+.standfirst { max-width: 42rem; margin-top: .65rem; }
+.credit, .paper-actions { margin-top: .6rem; }
+
+.article-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 1.5rem 2.5rem;
+  padding-block: 1.65rem;
+}
+.prose h2, .folio h2 { font-size: 1.35rem; }
+.prose h2 + p { margin-top: .5rem; }
+.prose section + section { margin-top: 1.5rem; }
+.article-aside { min-width: 0; }
+.article-aside > * + * { margin-top: 1.05rem; }
+.article-aside > .publication { padding-top: .85rem; border-top: 1px solid var(--rule); }
+.article-aside .publication p { color: var(--muted); font-size: .9rem; margin-top: .25rem; }
+.quiet-link { font-size: .875rem; }
+
+.eyebrow { margin-bottom: .15rem; color: var(--muted); font-size: .85rem; }
+.folio figcaption { margin-top: .6rem; }
+.chart { margin-top: .7rem; }
+.chart-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: .2rem .5rem;
+  font-size: .875rem;
+}
+.chart-row + .chart-row { margin-top: .6rem; }
+.chart-axis { display: flex; justify-content: space-between; margin-top: .15rem; color: var(--muted); font-size: .72rem; }
+.test-value, .figure-table { font-variant-numeric: tabular-nums; }
+.track { grid-column: 1 / -1; height: .3rem; position: relative; background: var(--chart-track); }
+.track::after { position: absolute; content: ""; inset: 0 auto 0 50%; border-left: 1px solid var(--muted); }
+.bar { display: block; width: var(--value); height: 100%; background: var(--link); }
+
+.figure-table {
+  width: 100%;
+  margin-top: .5rem;
+  border-collapse: collapse;
+  font-size: .85rem;
+}
+.figure-table th, .figure-table td { padding: .4rem .4rem .4rem 0; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule); }
+.figure-table th:last-child, .figure-table td:last-child { padding-right: 0; }
+.figure-table td:not(:first-child) { white-space: nowrap; }
+
+.article-end {
+  justify-content: space-between;
+  padding-block: .9rem;
+  border-top: 1px solid var(--rule);
+  font-size: .875rem;
+}
+
+@media (max-width: 42rem) {
+  .article-body { grid-template-columns: minmax(0, 1fr); }
+  .article-aside { padding-top: 1.15rem; border-top: 1px solid var(--rule); }
+}
+@media (max-width: 36rem) {
+  .wrap { width: calc(100% - 2rem); }
+  .nav { gap: .35rem .95rem; }
+  .profile { padding-block: 1.85rem 1.5rem; }
+  .band { grid-template-columns: minmax(0, 1fr); padding-block: 1.15rem 1.4rem; }
+}

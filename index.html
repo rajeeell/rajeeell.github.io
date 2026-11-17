@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Rajeel Ahmad Ansari, software engineer at Dylog.ai. Research on retrieval, language-model evaluation, and tool use.">
+  <meta name="theme-color" content="#fcfbf8">
+  <title>Rajeel Ahmad Ansari</title>
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-head home-head" id="top">
+    <div class="wrap head-inner">
+      <nav class="nav" aria-label="Main navigation">
+        <a href="#research">Research</a>
+        <a href="#experience">Experience</a>
+        <a href="#about">About</a>
+        <a href="cv.pdf" class="cv-nav">CV <span class="file-type">PDF</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    <section class="profile" aria-labelledby="name">
+      <h1 id="name">Rajeel Ahmad Ansari</h1>
+      <p class="intro">I’m a software engineer at Dylog.ai. I study how language models use the evidence they’re given and what happens when that evidence is incomplete or misleading.</p>
+      <ul class="profile-links links" aria-label="Contact and profiles">
+        <li><a href="mailto:rajeelansari@gmail.com">Email</a></li>
+        <li><a href="https://github.com/rajeeell">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/rajeel-ansari/">LinkedIn</a></li>
+      </ul>
+    </section>
+
+    <section id="research" class="band" aria-labelledby="research-title">
+      <h2 id="research-title">Research</h2>
+      <div class="entries">
+        <article class="study">
+          <h3><a href="research/rag-uncertainty/index.html">When Does Uncertainty Measure RAG Hallucination Risk?</a></h3>
+          <p class="meta">ICNLSP 2026 · Oral presentation</p>
+          <p>Perplexity separated supported from unsupported edits in a length-controlled benchmark. With one retrieved passage, the signal reversed in two model–dataset combinations.</p>
+          <p class="related">Related versions at AIMS (COLM), GroundLM (EMNLP), and SeT-LLM (KDD).</p>
+          <a class="source-link" href="https://aclanthology.org/2026.icnlsp-1.6/">ACL Anthology</a>
+        </article>
+        <article class="study">
+          <h3><a href="research/candidate-exposure/index.html">Candidate Exposure and Abstention in Entity Linking</a></h3>
+          <p class="meta">NeurIPS 2026 workshops · TAE and EvoRobust</p>
+          <p>Compared with random lists, retrieved candidates increased incorrect selections on no-match queries. I measured the effect in the solo TAE study and co-authored the EvoRobust extension, which tested how the effect transfers and how verification can mitigate it.</p>
+          <a class="source-link" href="https://openreview.net/forum?id=VpPb637w2W">TAE poster on OpenReview</a>
+        </article>
+        <article class="study">
+          <h3><a href="research/tool-output-trust/index.html">When Agents Trust the Wrong Tool Output</a></h3>
+          <p class="meta">NeurIPS 2026 workshops · IAB and MusIML</p>
+          <p>In a paired test, changing the displayed URL host eliminated certain false accepts for GPT-5.4 mini under two prompts and sharply increased deferrals on reliable outputs.</p>
+          <a class="source-link" href="https://openreview.net/forum?id=Noe4aYx9A2">IAB paper on OpenReview</a>
+        </article>
+      </div>
+    </section>
+
+    <section id="experience" class="band" aria-labelledby="experience-title">
+      <h2 id="experience-title">Experience</h2>
+      <div class="entries">
+        <h3 class="company">Dylog.ai</h3>
+        <dl class="roles">
+          <div><dt>AI Software Engineer</dt><dd>August 2025 – Present</dd></div>
+          <div><dt>Software Engineering Intern</dt><dd>February – July 2025</dd></div>
+        </dl>
+        <article class="work-row">
+          <h3>Seasonal campaign recommendations</h3>
+          <p>Built a pipeline that forecasts weekly demand and uses recurring seasonal peaks to rank what to promote, when to start, and how long to run each campaign.</p>
+        </article>
+        <article class="work-row">
+          <h3>Document and email extraction</h3>
+          <p>Built APIs that turn invoices, scans, spreadsheets, and purchasing emails into structured order data. The email API classifies requests and processes attachments in parallel.</p>
+        </article>
+        <article class="work-row">
+          <h3>Search and evaluation</h3>
+          <p>Built an LLM-based harness for measuring relevance and exact matches in ranked product results. Implemented an ONNX-based candidate-brand retrieval option for the search pipeline.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="band" aria-labelledby="earlier">
+      <h2 id="earlier">Earlier publications</h2>
+      <div class="entries">
+        <article class="publication">
+          <h3><a href="https://doi.org/10.1109/ICISCN64258.2025.10934331">Image Captioning using CNN and LSTMs</a></h3>
+          <p class="meta">IEEE ICISCN 2025</p>
+          <p>Rajeel Ahmad Ansari, Divyapratap Singh Chauhan, B. Jothi, and Krishnaveni S.</p>
+        </article>
+        <article class="publication">
+          <h3><a href="https://ijacen.iraj.in/paperdetails/20639">Illuminating the Black Box: Explainable AI (XAI)</a></h3>
+          <p class="meta">IJACEN 2024</p>
+          <p>Ansh Tandon, Rajeel Ansari, Chahat Tandon, Rohan Shah, and Ashok Saranya</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="about" class="band" aria-labelledby="about-title">
+      <h2 id="about-title">About</h2>
+      <div class="entries">
+        <p>I studied computer science with a specialization in AI and machine learning at SRM Institute of Science and Technology.</p>
+        <p>I want to build AI systems that help people make decisions with incomplete information. When a system recommends an option, I want it to show which assumptions drive the recommendation and what would make a different option better.</p>
+        <a class="source-link" href="cv.pdf">Download CV <span class="file-type">PDF</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-foot">
+    <div class="wrap foot-inner"><span>Rajeel Ahmad Ansari</span><a href="#top">Back to top</a></div>
+  </footer>
+</body>
+</html>
