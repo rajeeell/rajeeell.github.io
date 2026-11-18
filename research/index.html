@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Research and publications by Rajeel Ahmad Ansari on RAG hallucination risk, entity linking, and tool use.">
+  <meta name="theme-color" content="#fcfbf8">
+  <title>Research | Rajeel Ahmad Ansari</title>
+  <link rel="canonical" href="https://rajeeell.github.io/research/">
+  <link rel="stylesheet" href="../site.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-head" id="top">
+    <div class="wrap head-inner">
+      <a class="wordmark" href="../">Rajeel Ahmad Ansari</a>
+      <nav class="nav" aria-label="Main navigation">
+        <a href="./" aria-current="page">Research</a>
+        <a href="../#experience">Experience</a>
+        <a href="../#about">About</a>
+        <a href="../cv.pdf" class="cv-nav">CV <span class="file-type">PDF</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap research-index">
+    <div class="article-top">
+      <h1>Research</h1>
+    </div>
+
+    <article class="research-item">
+      <h2><a href="rag-uncertainty/">When Does Uncertainty Measure RAG Hallucination Risk?</a></h2>
+      <p class="credit">Rajeel Ahmad Ansari and Tautik Agrahari · ICNLSP 2026 oral presentation</p>
+      <p class="credit">Related workshop versions at AIMS (COLM), GroundLM (EMNLP), and SeT-LLM (KDD).</p>
+      <p class="standfirst">Perplexity detected unsupported edits in a length-matched benchmark, but fell below chance with a single retrieved passage in two of the model and dataset pairings tested.</p>
+      <div class="paper-actions">
+        <a href="https://aclanthology.org/2026.icnlsp-1.6/">ACL Anthology</a>
+        <a href="rag-uncertainty/">Study write-up</a>
+      </div>
+      <figure class="research-figure">
+        <a href="figures/retrieval-depth.png" aria-label="Open the retrieval-depth figure at full size">
+          <img src="figures/retrieval-depth.png" width="1692" height="452" alt="Three line charts show detection AUROC as retrieval depth increases. In two settings, perplexity rises sharply from one to two retrieved passages.">
+        </a>
+        <figcaption>Retrieval-depth stress test, Figure 1 from the ICNLSP paper.</figcaption>
+      </figure>
+    </article>
+
+    <article class="research-item">
+      <h2><a href="candidate-exposure/">Candidate Exposure and Abstention in Entity Linking</a></h2>
+      <p class="credit">Rajeel Ahmad Ansari · TAE workshop at NeurIPS 2026 · Sole-authored poster</p>
+      <p class="credit">Rajeel Ahmad Ansari and Chirag Gupta · EvoRobust workshop at NeurIPS 2026 · Expanded paper</p>
+      <p class="standfirst">GPT-OSS 20B selected entities more often on no-match queries when shown retrieved candidates. The expanded study tested the effect across more domains and evaluated a separate support check.</p>
+      <div class="paper-actions">
+        <a href="https://openreview.net/forum?id=VpPb637w2W">TAE poster on OpenReview</a>
+        <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/EvoRobust">EvoRobust workshop</a>
+        <a href="candidate-exposure/">Study write-up</a>
+      </div>
+      <figure class="research-figure">
+        <a href="figures/candidate-exposure.png" aria-label="Open the candidate-exposure chart at full size">
+          <img src="figures/candidate-exposure.png" width="1440" height="340" loading="lazy" alt="For GPT-OSS 20B on no-match queries, retrieved versus random candidates increased the entity selection rate by 6.3 percentage points on Beauty and 10.7 on ESCI.">
+        </a>
+        <figcaption>Change in entity selection on benchmark no-match queries, from the solo TAE study.</figcaption>
+      </figure>
+    </article>
+
+    <article class="research-item">
+      <h2><a href="tool-output-trust/">When Agents Trust the Wrong Tool Output</a></h2>
+      <p class="credit">Chirag Gupta and Rajeel Ahmad Ansari · IAB paper and MusIML poster, NeurIPS 2026 workshops</p>
+      <p class="standfirst">Changing only the displayed URL host eliminated false accepts on the same-entity cases for GPT-5.4 mini under two prompts. Deferrals rose on reliable tool outputs.</p>
+      <div class="paper-actions">
+        <a href="https://openreview.net/forum?id=Noe4aYx9A2">IAB paper on OpenReview</a>
+        <a href="tool-output-trust/">Study write-up</a>
+      </div>
+      <figure class="research-figure">
+        <a href="figures/tool-output-trust.png" aria-label="Open the tool-output trust chart at full size">
+          <img src="figures/tool-output-trust.png" width="1440" height="528" loading="lazy" alt="After the host change, false accepts went from 4 of 19 to 0 for the first prompt and 5 of 19 to 0 for the second. Deferrals on reliable outputs went from 1 of 50 to 33 of 50 and 30 of 50, respectively.">
+        </a>
+        <figcaption>Before and after the host change for GPT-5.4 mini. The false-accept panel covers the 19 cases where the tool returned a wrong value for the correct entity.</figcaption>
+      </figure>
+    </article>
+
+    <section class="band research-archive" aria-labelledby="earlier">
+      <h2 id="earlier">Earlier Publications</h2>
+      <div class="entries">
+        <article class="publication">
+          <h3><a href="https://doi.org/10.1109/ICISCN64258.2025.10934331">Image Captioning using CNN and LSTMs</a></h3>
+          <p class="meta">IEEE ICISCN 2025</p>
+          <p>Rajeel Ahmad Ansari, Divyapratap Singh Chauhan, B. Jothi, and Krishnaveni S.</p>
+        </article>
+        <article class="publication">
+          <h3><a href="https://ijacen.iraj.in/paperdetails/20639">Illuminating the Black Box: Explainable AI (XAI)</a></h3>
+          <p class="meta">IJACEN 2024</p>
+          <p>Ansh Tandon, Rajeel Ansari, Chahat Tandon, Rohan Shah, and Ashok Saranya</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-foot">
+    <div class="wrap foot-inner"><a href="../">Rajeel Ahmad Ansari</a><a href="#top">Back to top</a></div>
+  </footer>
+</body>
+</html>
