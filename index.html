@@ -7,6 +7,16 @@
   <meta name="theme-color" content="#fcfbf8">
   <title>Rajeel Ahmad Ansari</title>
   <link rel="stylesheet" href="site.css">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Rajeel Ahmad Ansari">
+  <meta property="og:description" content="Software engineering and research in information retrieval, language-model reliability, and applied ML.">
+  <meta property="og:url" content="https://rajeeell.github.io/">
+  <meta property="og:image" content="https://rajeeell.github.io/portfolio-share.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Rajeel Ahmad Ansari, Software Engineer and AI Researcher. Information retrieval, LLM reliability, and applied machine learning.">
+  <meta name="twitter:card" content="summary_large_image">
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -38,20 +48,20 @@
         <article class="study">
           <h3><a href="research/rag-uncertainty/index.html">When Does Uncertainty Measure RAG Hallucination Risk?</a></h3>
           <p class="meta">ICNLSP 2026 · Oral presentation</p>
-          <p>Perplexity separated supported from unsupported edits in a length-controlled benchmark. With one retrieved passage, the signal reversed in two model–dataset combinations.</p>
+          <p>Perplexity scored 0.81–0.91 AUROC at detecting unsupported edits in a length-matched test. With only one retrieved passage, it fell below chance for Gemma on HotpotQA and Qwen on SQuAD.</p>
           <p class="related">Related versions at AIMS (COLM), GroundLM (EMNLP), and SeT-LLM (KDD).</p>
           <a class="source-link" href="https://aclanthology.org/2026.icnlsp-1.6/">ACL Anthology</a>
         </article>
         <article class="study">
           <h3><a href="research/candidate-exposure/index.html">Candidate Exposure and Abstention in Entity Linking</a></h3>
           <p class="meta">NeurIPS 2026 workshops · TAE and EvoRobust</p>
-          <p>Compared with random lists, retrieved candidates increased incorrect selections on no-match queries. I measured the effect in the solo TAE study and co-authored the EvoRobust extension, which tested how the effect transfers and how verification can mitigate it.</p>
+          <p>In my solo TAE study, GPT-OSS 20B selected an entity more often on queries with no labeled match when given retrieved candidates instead of random ones. The increase was 6.3 percentage points on Beauty and 10.7 on ESCI.</p>
           <a class="source-link" href="https://openreview.net/forum?id=VpPb637w2W">TAE poster on OpenReview</a>
         </article>
         <article class="study">
           <h3><a href="research/tool-output-trust/index.html">When Agents Trust the Wrong Tool Output</a></h3>
           <p class="meta">NeurIPS 2026 workshops · IAB and MusIML</p>
-          <p>In a paired test, changing the displayed URL host eliminated certain false accepts for GPT-5.4 mini under two prompts and sharply increased deferrals on reliable outputs.</p>
+          <p>Under two prompts, changing only the displayed URL host reduced false accepts from 4–5 of 19 to zero for GPT-5.4 mini. Deferrals on reliable outputs rose from 1 of 50 to 30–33 of 50.</p>
           <a class="source-link" href="https://openreview.net/forum?id=Noe4aYx9A2">IAB paper on OpenReview</a>
         </article>
       </div>
