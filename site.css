@@ -81,7 +81,6 @@ a:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; }
 .file-type { margin-left: .25em; color: var(--muted); font-size: .72em; }
 
 .profile { padding-block: 2.8rem 2.4rem; }
-.profile-status { margin-bottom: .45rem; color: var(--link); font-size: .875rem; font-weight: 600; }
 .profile h1 { font-size: clamp(2.1rem, 6vw, 3.15rem); }
 .profile-role { margin-top: .3rem; color: var(--muted); font-size: 1.1rem; font-weight: 600; }
 .intro { max-width: 41rem; margin-top: .8rem; }
