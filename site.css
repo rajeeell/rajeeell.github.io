@@ -187,8 +187,16 @@ a:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; }
 
 .research-index { padding-bottom: 2.3rem; }
 .research-index .article-top h1 { margin-top: 0; }
-.research-item { padding-block: 1.75rem; }
+.research-item {
+  display: grid;
+  grid-template-columns: clamp(10rem, 28%, 13.5rem) minmax(0, 1fr);
+  grid-template-areas: "figure details";
+  align-items: start;
+  gap: 1rem clamp(1.25rem, 4vw, 2rem);
+  padding-block: 1.75rem;
+}
 .research-item + .research-item { border-top: 1px solid var(--rule); }
+.research-details { grid-area: details; }
 .research-item h2 { max-width: 40rem; font-size: clamp(1.4rem, 3.4vw, 1.85rem); }
 .research-item h2 a { color: var(--ink); text-decoration-color: #8f989e; }
 .research-item h2 a:hover { color: var(--link); }
@@ -196,12 +204,17 @@ a:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; }
 .research-item .credit + .credit { margin-top: .15rem; }
 .research-item .standfirst { margin-top: .65rem; }
 .research-item .paper-actions { font-size: .875rem; }
-.research-figure { max-width: 43rem; margin-top: 1.15rem; }
-.research-figure a { display: block; }
-.research-figure img { display: block; width: 100%; height: auto; border: 1px solid var(--rule); }
-.research-figure figcaption { margin-top: .4rem; }
-.research-figure--compact { max-width: 34rem; }
-.research-figure--small img { max-width: 288px; }
+.research-figure { grid-area: figure; width: 100%; max-width: 13.5rem; }
+.research-figure a {
+  display: block;
+  aspect-ratio: 3 / 2;
+  padding: .35rem;
+  border: 1px solid var(--rule);
+  background: #fff;
+  cursor: zoom-in;
+}
+.research-figure img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.research-figure figcaption { margin-top: .4rem; line-height: 1.4; }
 
 @media (max-width: 42rem) {
   .article-body { grid-template-columns: minmax(0, 1fr); }
@@ -214,4 +227,5 @@ a:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; }
   .band { grid-template-columns: minmax(0, 1fr); padding-block: 1.15rem 1.4rem; }
   .band-heading { display: flex; align-items: baseline; justify-content: space-between; gap: .5rem; }
   .band-heading .source-link { margin-top: 0; }
+  .research-item { grid-template-columns: minmax(0, 1fr); grid-template-areas: "details" "figure"; }
 }
