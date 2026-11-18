@@ -202,6 +202,8 @@ a:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; }
 .research-item h2 a:hover { color: var(--link); }
 .research-item .credit { margin-top: .45rem; }
 .research-item .credit + .credit { margin-top: .15rem; }
+.research-authors { color: var(--ink); font-weight: 650; }
+.research-venue { color: var(--link); font-weight: 600; }
 .research-item .standfirst { margin-top: .65rem; }
 .research-item .paper-actions { font-size: .875rem; }
 .research-figure { grid-area: figure; width: 100%; max-width: 13.5rem; }
