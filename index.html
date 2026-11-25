@@ -77,22 +77,30 @@
     <section id="experience" class="band" aria-labelledby="experience-title">
       <h2 id="experience-title">Experience</h2>
       <div class="entries">
-        <h3 class="company">Dylog.ai</h3>
+        <h3 class="company">Dylog.ai <span class="meta">· Remote</span></h3>
         <dl class="roles">
-          <div><dt>AI Software Engineer</dt><dd>August 2025 – Present</dd></div>
-          <div><dt>Software Engineering Intern</dt><dd>February – July 2025</dd></div>
+          <div><dt>Software Engineer</dt><dd>August 2025 – Present</dd></div>
+          <div><dt>Software Engineering Intern</dt><dd>February 2025 – July 2025</dd></div>
         </dl>
         <article class="work-row">
+          <h3>Search ranking and part-number lookup</h3>
+          <p>Tuned BM25 and field boosts in an Elasticsearch search engine for industrial catalogs, raising the rank-1 exact-match rate from 76% to 91% on labeled natural-language customer queries. Built the exact part-number lookup path, cutting p95 end-to-end latency from 160 ms to 105 ms.</p>
+        </article>
+        <article class="work-row">
+          <h3>Search regression testing</h3>
+          <p>Built a search regression harness that replays historical customer queries and compares relevance and latency against pinned baselines. Reused relevance scores when rankings stayed the same, so only 380 of 2,000 result lists needed regrading on a repeat run.</p>
+        </article>
+        <article class="work-row">
+          <h3>Brand retrieval</h3>
+          <p>Implemented an ONNX-based brand retriever that matched ColBERT's 96% Recall@5 on labeled product queries and cut p95 retrieval latency from 60 ms to 25 ms.</p>
+        </article>
+        <article class="work-row">
           <h3>Seasonal campaign recommendations</h3>
-          <p>Built a pipeline that forecasts weekly demand and uses recurring seasonal peaks to rank what to promote, when to start, and how long to run each campaign.</p>
+          <p>Built a seasonal promotion recommender using Chronos-2 forecasts to suggest products, timing, and duration. Classified about 36,000 products for one client, raising the share of sales mapped to categories from 70% to 92%.</p>
         </article>
         <article class="work-row">
           <h3>Document and email extraction</h3>
-          <p>Built APIs that turn invoices, scans, spreadsheets, and purchasing emails into structured order data. The email API classifies requests and processes attachments in parallel.</p>
-        </article>
-        <article class="work-row">
-          <h3>Search and evaluation</h3>
-          <p>Built an LLM-based harness for measuring relevance and exact matches in ranked product results. Implemented an ONNX-based candidate-brand retrieval option for the search pipeline.</p>
+          <p>Built APIs that turn invoices and purchasing emails into structured order data, with configurable model fallbacks for document extraction and parallel processing for email attachments.</p>
         </article>
       </div>
     </section>
