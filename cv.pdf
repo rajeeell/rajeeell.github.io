@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [17 0 R 27 0 R] /Count 2 >>
+<< /Type /Pages /Kids [16 0 R 27 0 R] /Count 2 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Times-Roman /Encoding /WinAnsiEncoding >>
@@ -16,7 +16,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Times-Italic /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 10122 >>
+<< /Length 9841 >>
 stream
 0.09 0.10 0.11 rg BT /F1 22 Tf 1 0 0 1 210.69 748.00 Tm (Rajeel Ahmad Ansari) Tj ET
 0.10 0.23 0.38 rg BT /F1 10.2 Tf 1 0 0 1 167.17 718.00 Tm (rajeelansari@gmail.com) Tj ET
@@ -106,30 +106,24 @@ stream
 0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 175.40 Tm (Workshop Papers) Tj ET
 0.19 0.20 0.21 RG 0.55 w 40 171.40 m 572 171.40 l S
 0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 155.40 Tm (ï) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 155.40 Tm (When Does Uncertainty Measure RAG Hallucination Risk?) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 311.98 155.40 Tm ( \(workshop versions\)) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 141.80 Tm (Rajeel Ahmad Ansari) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 156.26 141.80 Tm ( and Tautik Agrahari.) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 128.20 Tm (AI Measurement Science Workshop) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 221.94 128.20 Tm ( \(organized by Stanford AIMS\), ) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 361.61 128.20 Tm (COLM 2026) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 418.97 128.20 Tm ( \(accepted paper\). ) Tj ET
-0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 497.99 128.20 Tm (OpenReview) Tj ET
-0.10 0.23 0.38 RG 0.4 w 497.99 126.75 m 553.85 126.75 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 553.85 128.20 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 114.60 Tm (GroundLM Workshop, EMNLP 2026) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 229.41 114.60 Tm ( \(accepted paper\). ) Tj ET
-0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 308.43 114.60 Tm (OpenReview) Tj ET
-0.10 0.23 0.38 RG 0.4 w 308.43 113.15 m 364.29 113.15 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 364.29 114.60 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 101.00 Tm (SeT-LLM Workshop, KDD 2026) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 206.81 101.00 Tm ( \(accepted paper, as ) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 293.86 101.00 Tm (Auditing Uncertainty as a RAG Hallucination Signal under) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 87.40 Tm (Retrieval Shift) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 118.52 87.40 Tm (\). ) Tj ET
-0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 127.44 87.40 Tm (OpenReview) Tj ET
-0.10 0.23 0.38 RG 0.4 w 127.44 85.95 m 183.30 85.95 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 183.30 87.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 155.40 Tm (When Agents Trust the Wrong Tool Output: Acceptance Across Corruption Types and a URL-Host Ablation) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 519.46 155.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 141.80 Tm (Chirag Gupta and ) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 135.75 141.80 Tm (Rajeel Ahmad Ansari) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 235.02 141.80 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 128.20 Tm (IAB Workshop, NeurIPS 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 196.11 128.20 Tm ( \(accepted paper\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 275.13 128.20 Tm (OpenReview) Tj ET
+0.10 0.23 0.38 RG 0.4 w 275.13 126.75 m 330.99 126.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 330.99 128.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 114.60 Tm (MusIML Workshop, NeurIPS 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 218.70 114.60 Tm ( \(accepted paper\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 297.72 114.60 Tm (OpenReview) Tj ET
+0.10 0.23 0.38 RG 0.4 w 297.72 113.15 m 353.58 113.15 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 353.58 114.60 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 101.00 Tm (In a paired 50-source URL-host ablation, GPT-5.4 mini accepted 4/19 and 5/19 false values about the correct entity) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 87.40 Tm (under two caution-oriented prompts. Both fell to 0/19 after the host change. Deferrals on reliable outputs rose from) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 73.80 Tm (1/50 to 33/50 and 30/50, respectively.) Tj ET
 0.09 0.10 0.11 rg BT /F1 9 Tf 1 0 0 1 293.00 25.00 Tm (1 / 2) Tj ET
 endstream
 endobj
@@ -155,19 +149,16 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [81.66 212.10 250.79 225.30] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1109/ICISCN64258.2025.10934331) >> >>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [497.99 125.70 553.85 138.90] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=7ma98SQfZg) >> >>
+<< /Type /Annot /Subtype /Link /Rect [275.13 125.70 330.99 138.90] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=Noe4aYx9A2) >> >>
 endobj
 15 0 obj
-<< /Type /Annot /Subtype /Link /Rect [308.43 112.10 364.29 125.30] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=DNy1xF8Mf9) >> >>
+<< /Type /Annot /Subtype /Link /Rect [297.72 112.10 353.58 125.30] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=8hTRvJJxzU) >> >>
 endobj
 16 0 obj
-<< /Type /Annot /Subtype /Link /Rect [127.44 84.90 183.30 98.10] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=hdomcrvFMA) >> >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R] >>
 endobj
 17 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R] >>
-endobj
-18 0 obj
-<< /Length 8954 >>
+<< /Length 9239 >>
 stream
 0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 740.00 Tm (Workshop Papers \(continued\)) Tj ET
 0.19 0.20 0.21 RG 0.55 w 40 736.00 m 572 736.00 l S
@@ -196,104 +187,113 @@ stream
 0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 597.60 Tm (product-search test across three verifier models, Structured Support Verification retained 87.7ñ92.0% of gold proposals) Tj ET
 0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 584.00 Tm (and rejected 85.3ñ86.3% of plausible same-query alternatives.) Tj ET
 0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 563.40 Tm (ï) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 563.40 Tm (When Agents Trust the Wrong Tool Output: Acceptance Across Corruption Types and a URL-Host Ablation) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 519.46 563.40 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 549.80 Tm (Chirag Gupta and ) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 135.75 549.80 Tm (Rajeel Ahmad Ansari) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 235.02 549.80 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 536.20 Tm (IAB Workshop, NeurIPS 2026) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 196.11 536.20 Tm ( \(accepted paper\). ) Tj ET
-0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 275.13 536.20 Tm (OpenReview) Tj ET
-0.10 0.23 0.38 RG 0.4 w 275.13 534.75 m 330.99 534.75 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 330.99 536.20 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 522.60 Tm (MusIML Workshop, NeurIPS 2026) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 218.70 522.60 Tm ( \(accepted paper\). ) Tj ET
-0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 297.72 522.60 Tm (OpenReview) Tj ET
-0.10 0.23 0.38 RG 0.4 w 297.72 521.15 m 353.58 521.15 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 353.58 522.60 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 509.00 Tm (In a paired 50-source URL-host ablation, GPT-5.4 mini accepted 4/19 and 5/19 false values about the correct entity) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 495.40 Tm (under two caution-oriented prompts. Both fell to 0/19 after the host change. Deferrals on reliable outputs rose from) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 481.80 Tm (1/50 to 33/50 and 30/50, respectively.) Tj ET
-0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 453.20 Tm (Academic Service) Tj ET
-0.19 0.20 0.21 RG 0.55 w 40 449.20 m 572 449.20 l S
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 40.00 433.20 Tm (Peer Reviewer) Tj ET
-0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 418.60 Tm (ï) Tj ET
-0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 418.60 Tm (VLM4RWD) Tj ET
-0.10 0.23 0.38 RG 0.4 w 57.00 417.15 m 113.46 417.15 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 113.46 418.60 Tm ( \(Grounded and Faithful Vision-Language Models for Real-World Deployment\), ) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 461.75 418.60 Tm (NeurIPS 2026 workshop) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 566.96 418.60 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 401.00 Tm (ï) Tj ET
-0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 401.00 Tm (GroundLM) Tj ET
-0.10 0.23 0.38 RG 0.4 w 57.00 399.55 m 110.51 399.55 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 110.51 401.00 Tm ( \(Grounding Language Models: Learning Faithfully and Efficiently\), ) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 407.39 401.00 Tm (EMNLP 2026 workshop) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 510.83 401.00 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 383.40 Tm (ï) Tj ET
-0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 383.40 Tm (REALM) Tj ET
-0.10 0.23 0.38 RG 0.4 w 57.00 381.95 m 96.83 381.95 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 96.83 383.40 Tm ( \(Workshop for Research on Agent Language Models\), ) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 335.44 383.40 Tm (EMNLP 2026 workshop) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 438.87 383.40 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 365.80 Tm (ï) Tj ET
-0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 365.80 Tm (WNUT) Tj ET
-0.10 0.23 0.38 RG 0.4 w 57.00 364.35 m 90.29 364.35 l S
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 90.29 365.80 Tm ( \(Workshop on Natural User-generated Text\), ) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 288.47 365.80 Tm (EMNLP 2026 workshop) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 391.91 365.80 Tm (.) Tj ET
-0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 340.20 Tm (Technical Skills) Tj ET
-0.19 0.20 0.21 RG 0.55 w 40 336.20 m 572 336.20 l S
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 320.20 Tm (Programming) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 107.19 320.20 Tm ( ∑ Python, C++, SQL) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 305.60 Tm (ML Methods) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 102.74 305.60 Tm ( ∑ NLP, computer vision, information retrieval, entity linking, RAG, time-series forecasting) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 291.00 Tm (Research and Evaluation) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 157.74 291.00 Tm ( ∑ LLM evaluation, ablation studies, calibration, search relevance evaluation) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 276.40 Tm (ML Tools) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 87.89 276.40 Tm ( ∑ PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, LlamaIndex, ONNX) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 261.80 Tm (Data Analysis) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 106.31 261.80 Tm ( ∑ pandas, NumPy, Matplotlib, Seaborn) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 247.20 Tm (Software Development) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 146.70 247.20 Tm ( ∑ Elasticsearch, FastAPI, REST APIs, Google Cloud Storage, Git, Postman) Tj ET
-0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 224.60 Tm (Extracurricular Involvement) Tj ET
-0.19 0.20 0.21 RG 0.55 w 40 220.60 m 572 220.60 l S
-0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 40.00 204.60 Tm (Crewsphere SRM) Tj ET
-0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 446.57 204.60 Tm (February 2024 ñ April 2024) Tj ET
-0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 40.00 189.60 Tm (Technical Lead) Tj ET
-0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 173.60 Tm (ï) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 173.60 Tm (Contributed to the club's early growth by organizing the Crewsphere: ICP India Hub Chennai Incubator launch event,) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 160.00 Tm (promoting decentralized innovation and collaboration.) Tj ET
-0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 142.40 Tm (ï) Tj ET
-0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 142.40 Tm (Mentored junior students, providing technical guidance and support to enhance their projects and skills.) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 563.40 Tm (When Does Uncertainty Measure RAG Hallucination Risk?) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 311.98 563.40 Tm ( \(workshop versions\)) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 549.80 Tm (Rajeel Ahmad Ansari) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 156.26 549.80 Tm ( and Tautik Agrahari.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 536.20 Tm (AI Measurement Science Workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 221.94 536.20 Tm ( \(organized by Stanford AIMS\), ) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 361.61 536.20 Tm (COLM 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 418.97 536.20 Tm ( \(accepted paper\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 497.99 536.20 Tm (OpenReview) Tj ET
+0.10 0.23 0.38 RG 0.4 w 497.99 534.75 m 553.85 534.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 553.85 536.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 522.60 Tm (GroundLM Workshop, EMNLP 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 229.41 522.60 Tm ( \(accepted paper\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 308.43 522.60 Tm (OpenReview) Tj ET
+0.10 0.23 0.38 RG 0.4 w 308.43 521.15 m 364.29 521.15 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 364.29 522.60 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 57.00 509.00 Tm (SeT-LLM Workshop, KDD 2026) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 206.81 509.00 Tm ( \(accepted paper, as ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 293.86 509.00 Tm (Auditing Uncertainty as a RAG Hallucination Signal under) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 57.00 495.40 Tm (Retrieval Shift) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 118.52 495.40 Tm (\). ) Tj ET
+0.10 0.23 0.38 rg BT /F1 10.7 Tf 1 0 0 1 127.44 495.40 Tm (OpenReview) Tj ET
+0.10 0.23 0.38 RG 0.4 w 127.44 493.95 m 183.30 493.95 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 183.30 495.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 466.80 Tm (Academic Service) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 462.80 m 572 462.80 l S
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 40.00 446.80 Tm (Peer Reviewer) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 432.20 Tm (ï) Tj ET
+0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 432.20 Tm (VLM4RWD) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 430.75 m 113.46 430.75 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 113.46 432.20 Tm ( \(Grounded and Faithful Vision-Language Models for Real-World Deployment\), ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 461.75 432.20 Tm (NeurIPS 2026 workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 566.96 432.20 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 414.60 Tm (ï) Tj ET
+0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 414.60 Tm (GroundLM) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 413.15 m 110.51 413.15 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 110.51 414.60 Tm ( \(Grounding Language Models: Learning Faithfully and Efficiently\), ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 407.39 414.60 Tm (EMNLP 2026 workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 510.83 414.60 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 397.00 Tm (ï) Tj ET
+0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 397.00 Tm (REALM) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 395.55 m 96.83 395.55 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 96.83 397.00 Tm ( \(Workshop for Research on Agent Language Models\), ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 335.44 397.00 Tm (EMNLP 2026 workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 438.87 397.00 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 379.40 Tm (ï) Tj ET
+0.10 0.23 0.38 rg BT /F2 10.7 Tf 1 0 0 1 57.00 379.40 Tm (WNUT) Tj ET
+0.10 0.23 0.38 RG 0.4 w 57.00 377.95 m 90.29 377.95 l S
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 90.29 379.40 Tm ( \(Workshop on Natural User-generated Text\), ) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.7 Tf 1 0 0 1 288.47 379.40 Tm (EMNLP 2026 workshop) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 391.91 379.40 Tm (.) Tj ET
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 353.80 Tm (Technical Skills) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 349.80 m 572 349.80 l S
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 333.80 Tm (Programming) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 107.19 333.80 Tm ( ∑ Python, C++, SQL) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 319.20 Tm (ML Methods) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 102.74 319.20 Tm ( ∑ NLP, computer vision, information retrieval, entity linking, RAG, time-series forecasting) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 304.60 Tm (Research and Evaluation) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 157.74 304.60 Tm ( ∑ LLM evaluation, ablation studies, calibration, search relevance evaluation) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 290.00 Tm (ML Tools) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 87.89 290.00 Tm ( ∑ PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, LlamaIndex, ONNX) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 275.40 Tm (Data Analysis) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 106.31 275.40 Tm ( ∑ pandas, NumPy, Matplotlib, Seaborn) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.7 Tf 1 0 0 1 43.00 260.80 Tm (Software Development) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 146.70 260.80 Tm ( ∑ Elasticsearch, FastAPI, REST APIs, Google Cloud Storage, Git, Postman) Tj ET
+0.09 0.10 0.11 rg BT /F2 13.2 Tf 1 0 0 1 40.00 238.20 Tm (Extracurricular Involvement) Tj ET
+0.19 0.20 0.21 RG 0.55 w 40 234.20 m 572 234.20 l S
+0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 40.00 218.20 Tm (Crewsphere SRM) Tj ET
+0.09 0.10 0.11 rg BT /F2 10.6 Tf 1 0 0 1 446.57 218.20 Tm (February 2024 ñ April 2024) Tj ET
+0.09 0.10 0.11 rg BT /F3 10.6 Tf 1 0 0 1 40.00 203.20 Tm (Technical Lead) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 187.20 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 187.20 Tm (Contributed to the club's early growth by organizing the Crewsphere: ICP India Hub Chennai Incubator launch event,) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 173.60 Tm (promoting decentralized innovation and collaboration.) Tj ET
+0.09 0.10 0.11 rg BT /F1 8.8 Tf 1 0 0 1 44.00 156.00 Tm (ï) Tj ET
+0.09 0.10 0.11 rg BT /F1 10.7 Tf 1 0 0 1 57.00 156.00 Tm (Mentored junior students, providing technical guidance and support to enhance their projects and skills.) Tj ET
 0.09 0.10 0.11 rg BT /F1 9 Tf 1 0 0 1 293.00 25.00 Tm (2 / 2) Tj ET
 endstream
 endobj
-19 0 obj
+18 0 obj
 << /Type /Annot /Subtype /Link /Rect [278.10 690.30 333.97 703.50] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=VpPb637w2W) >> >>
 endobj
-20 0 obj
+19 0 obj
 << /Type /Annot /Subtype /Link /Rect [306.64 635.90 362.51 649.10] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=7fZ9E3X2um) >> >>
 endobj
+20 0 obj
+<< /Type /Annot /Subtype /Link /Rect [497.99 533.70 553.85 546.90] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=7ma98SQfZg) >> >>
+endobj
 21 0 obj
-<< /Type /Annot /Subtype /Link /Rect [275.13 533.70 330.99 546.90] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=Noe4aYx9A2) >> >>
+<< /Type /Annot /Subtype /Link /Rect [308.43 520.10 364.29 533.30] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=DNy1xF8Mf9) >> >>
 endobj
 22 0 obj
-<< /Type /Annot /Subtype /Link /Rect [297.72 520.10 353.58 533.30] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=8hTRvJJxzU) >> >>
+<< /Type /Annot /Subtype /Link /Rect [127.44 492.90 183.30 506.10] /Border [0 0 0] /A << /S /URI /URI (https://openreview.net/forum?id=hdomcrvFMA) >> >>
 endobj
 23 0 obj
-<< /Type /Annot /Subtype /Link /Rect [57.00 416.10 113.46 429.30] /Border [0 0 0] /A << /S /URI /URI (https://vlm4rwd.github.io/index.html) >> >>
+<< /Type /Annot /Subtype /Link /Rect [57.00 429.70 113.46 442.90] /Border [0 0 0] /A << /S /URI /URI (https://vlm4rwd.github.io/index.html) >> >>
 endobj
 24 0 obj
-<< /Type /Annot /Subtype /Link /Rect [57.00 398.50 110.51 411.70] /Border [0 0 0] /A << /S /URI /URI (https://groundlm.github.io/grouplm_emnlp2026/) >> >>
+<< /Type /Annot /Subtype /Link /Rect [57.00 412.10 110.51 425.30] /Border [0 0 0] /A << /S /URI /URI (https://groundlm.github.io/grouplm_emnlp2026/) >> >>
 endobj
 25 0 obj
-<< /Type /Annot /Subtype /Link /Rect [57.00 380.90 96.83 394.10] /Border [0 0 0] /A << /S /URI /URI (https://realm-workshop.github.io/2026-emnlp/) >> >>
+<< /Type /Annot /Subtype /Link /Rect [57.00 394.50 96.83 407.70] /Border [0 0 0] /A << /S /URI /URI (https://realm-workshop.github.io/2026-emnlp/) >> >>
 endobj
 26 0 obj
-<< /Type /Annot /Subtype /Link /Rect [57.00 363.30 90.29 376.50] /Border [0 0 0] /A << /S /URI /URI (https://aclanthology.org/volumes/2026.wnut-1/) >> >>
+<< /Type /Annot /Subtype /Link /Rect [57.00 376.90 90.29 390.10] /Border [0 0 0] /A << /S /URI /URI (https://aclanthology.org/volumes/2026.wnut-1/) >> >>
 endobj
 27 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R /Annots [19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R] >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 17 0 R /Annots [18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R] >>
 endobj
 xref
 0 28
@@ -304,31 +304,31 @@ xref
 0000000228 00000 n 
 0000000326 00000 n 
 0000000426 00000 n 
-0000010601 00000 n 
-0000010756 00000 n 
-0000010924 00000 n 
-0000011077 00000 n 
-0000011231 00000 n 
-0000011417 00000 n 
-0000011585 00000 n 
-0000011760 00000 n 
-0000011929 00000 n 
-0000012098 00000 n 
-0000012265 00000 n 
-0000012489 00000 n 
-0000021496 00000 n 
-0000021665 00000 n 
-0000021834 00000 n 
-0000022003 00000 n 
-0000022172 00000 n 
-0000022334 00000 n 
-0000022505 00000 n 
-0000022674 00000 n 
-0000022844 00000 n 
+0000010319 00000 n 
+0000010474 00000 n 
+0000010642 00000 n 
+0000010795 00000 n 
+0000010949 00000 n 
+0000011135 00000 n 
+0000011303 00000 n 
+0000011478 00000 n 
+0000011647 00000 n 
+0000011816 00000 n 
+0000012033 00000 n 
+0000021325 00000 n 
+0000021494 00000 n 
+0000021663 00000 n 
+0000021832 00000 n 
+0000022001 00000 n 
+0000022170 00000 n 
+0000022332 00000 n 
+0000022503 00000 n 
+0000022672 00000 n 
+0000022842 00000 n 
 trailer
 << /Size 28 /Root 1 0 R >>
 startxref
-23058
+23063
 %%EOF
 1 1 obj
 << /Type /Catalog /Pages 2 0 R  /AF [29 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 29 0 R] >> >> >>
@@ -336,10 +336,10 @@ endobj
 28 0 obj
 << /Length 24288 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
 stream
-  ^‡jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^∫jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:0eea4131-7be2-4d27-bf69-ce09e0a0d9d7   ™jumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+  ^‡jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^∫jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:2de15c01-9473-42c4-ba43-6a83c156ac71   ™jumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
 </svg>
-  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    Îcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnamekgpt-6.2-solgversionkgpt-6.2-soldwhenx2026-11-26T09:01:26.647612ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estart]aflength^‡dnamenjumbf manifestcalgfsha256dhashX î	E'ëÌúˇñ„¨Ujì †MééçN]ÇâU˙E⁄Ècpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:4eab2e3d-ca46-4e6e-b97f-86b8c3d6f23dtclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:0eea4131-7be2-4d27-bf69-ce09e0a0d9d7/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX $#ìAjMSMiñ’’õˆﬂÆı§zv€Ü+T1e¸'¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX çK]ûÓV≠X-6ÒÂZôD≠˘0ÜÁë>’1“∫c‚hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    Îcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnamekgpt-6.2-solgversionkgpt-6.2-soldwhenx2026-11-26T09:32:22.099543ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estart]fflength^‡dnamenjumbf manifestcalgfsha256dhashX Æ°¯‘ÊWÏû?X_'ã¨(†õWs ~¿i£?¨~cpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:dc5a6733-fdfc-4c69-8f0d-ef036e3c61ectclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:2de15c01-9473-42c4-ba43-6a83c156ac71/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX å2Y &f«˚%Û,Àú˙g∂À–∂ùﬁ∏ZîDÒFº€c¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX 	µû ’ıY∏ΩÆuJX^^âcxÏ¯ÉüQmZŒ¥π£hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
 SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
 OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
 Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
@@ -358,9 +358,8 @@ m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\
 ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
 +ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
 +ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
-¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYä0ÇÜ	*ÜHÜ˜†Çw0Çs10	`ÜHe 0ÅÜ*ÜHÜ˜	†wu0s
-+Éø0010	`ÜHe  ä
-∏§JfŒEêu¡uglﬁÚ˛÷pX*›áeÆJ6Jœ€w¸ÂÉ&˝ 20261126090127.361511Z0ÄzóSÑ≤ûÈœ†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYå0Çà	*ÜHÜ˜†Çy0Çu10	`ÜHe 0Åà*ÜHÜ˜	†yw0u
++Éø0010	`ÜHe  Ω! ¬4wxömrØ=d=øG1ùmxˆ◊†#â	 ˜t%¿eÕ*g20261126093222.932005Z0Ä	 –ˆ°K¥çN†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
 OpenAI OpCo, LLC10
 UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
 OpenAI OpCo, LLC10
@@ -386,22 +385,23 @@ HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊Rªp
 ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
 Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
 OpenAI OpCo, LLC10
-UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" Ö˝x◊7…+≈eü˘#‚^*´ÊÕ,„~LauÚ–‹r#0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" fΩ∆e¸RWÃq3˝ÄiÔ)ì⁄€TÎæı™í£<70Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
 OpenAI OpCo, LLC10
-UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄª‚Â…f§A7J≠ìs∏Ω·ˇ"úƒ«b§fo•Ô=1÷Çh»Âãr˝¶iœjãÈÕ∞T
-Ø>ºïÄ8?í4x|πÏ2ÄImpó=ÉƒN oßÒ”à‹ä‰k'yzªÿ&Õ>Ù_uaY˝óØRXŒáQÀª„¡g,DèJúC]ôı€Œﬁ◊¨·◊¥‹˛¸-oçÌ>˜¿t†MP;Ω#Á„”	UY5^î±´™2Ωk5ª\*›Ò\ù ´µ©∂ì¬x˝rk@€B¥ôa∫<9ÚwÆ≈g∑Û°z^â˜∆9ë·I™ÈÌdÊTSà}Œ˚Æ êLY˜√9S»ùa2Ò»j§è #f‡€£ÈõB|Ûâ˜F6iÜ¢FÎÊô	»öfímt¥Òæö¿püS«©¸Á;€H©Pﬂ∞dê_mî˚à!œ†'çcãÃ51j}æÜFû…ô©ÃYJ∫ı¿¿›Üi.´Zπx	ııÂ	7M@Èc9∫˛ﬁõÀWŒ%ô‰ÃµßerVals°hocspValsÅY◊0Ç”
- †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢Àcól‚ù≠‡-e&¶:tiô20261126071722Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
-9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261126071722Z†20261203071721Z°"0 0	+020161128071722Z°#0!0	+0îlŒíM∆C2~Ôı•z‚0	*ÜHÜ˜ ÇÅ 9=*ÙmÏõDâÀ%ÌÙûFÒß*ﬁW äM"æˇ&ÇÓ∏ÇFèYn∫“!ña‘%•åç≠¨‚
-EkÊ<ÂπHLC∏úåMÖƒ'7GwgÁ∆u∏æ.—∆¬0≤)A t—ëTaJ¿ﬁ$"{Gãr	ë˙õú≤ˇ@YŸ™HfB’9ó®‚+BG§˙ÅÔ9
-øIéEX∆#<[àö9]‹N◊¸
-∂™Î7ÆÏª™·¡z´ﬂXv≥çcÔ è’ÛOWlQôŸ6„ª¸ì¿q∆Ñ˛ﬂ›M# †$]óm~õ™;XeÅy»Ö?3){Qçg˙õ˚æ©Œ¶ÂUdìx4´ë#HÁ' Ê!V€T‡io™àTz'ª°Ü)∑Èîá∫gÖ¬=¯Äò“+ø.•Æ~ïÛÂl¯÷ê‘XD—pΩøˆ{|˛õ{KƒÃ˘MÜLt‘o˚»‘2ú‹ôáä#K∆6Úü·Ì¢A´lDÙw¥„ûÏ¬ÛÔµBÊ{`˝t˚ÁP†Ç10Ç-0Ç)0Ç†97«k˜”!òS§¢°îR/0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄ∫ÒbãqœÍë…‡>Mw,%ÅQ>NçÊ≥N]l≥˙ƒ/]Ú7S∫zü/®`ó?⁄?‚k(f:\√“å_ôOnxT’µ**íB°Q·∫T}.öî~-õrÅã/ÊL[˚∂“-£≠Û∏∞ëËÃÂ¯‹b:ö‰Dr~!0<¬/ˇrIÑ∞⁄S#K√°≥éá±b~ Ω†tRÖ¨Ø∫•ÊH›‹:>∑3Ñ—l|ã.`3-Dúm@ 'ü∑[eŒÜz"ÕezMòOëVÂ¬∆c∞bÕ &dBˇ¬<’∂uF¨Q|R*˛Bîºv,+ñfÕ#Îägl≥ 7Kƒ‘o≥rß‡uç\©Û≤êƒa˜ÆYÓoP™l°xnJUDU?ÄÏò€b˚—ikI‘êˇ´ï§º;ä∆⁄S´>∑KÑ%dÍWıt∫í∫π\v/∆∞ÛﬂLÀh¥Ò8‰∑É¿¶76Ω1p=3;ºZ≈‘^„=Àmxº*kñ.b†VÎåerVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢Àcól‚ù≠‡-e&¶:tiô20261126075238Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261126075238Z†20261203075237Z°"0 0	+020161128075238Z°#0!0	+0˛Ò/é∆
+…‡Q:4w]óa0	*ÜHÜ˜ ÇÅ ñ1∆Ò´‹!à‰`X
+¨@çË≠≤„6ÉÔCÄ»˚IùL–K›3.áR!á)[†wc“∫KüË{πõK§ﬂáEO7?≥.r¸Å7 >tKı<<ÅOpû∏˚°˝ˇÛ¨+¿$@“ﬁ√≠b àˆP˝«ÍJlÜÃâÈÃËÉÊÕ’>.√4+◊˙çﬂﬂ÷#“Èdë€8C/[7öØ√Æ¥Í©Lukiv& c±çÌPü69÷W¡˙g%ˆ‡àÿ3ÑWÑ}…r9ılàÁ\*\^)¨u∑ˆ¿wÚõ/:π´!]r]S»ÜV‘[bPå∞d\‹ä÷it√ø ëéü≠oÉ3Ùä*cJ˘1ó»<çñ“"í6Ä{Ú#Sìˇy%ªıüÓå<É*≤8¬¡¬≠y◊$g)~aN>:A<Õ>T@ŸÅyÅså—≠#FÏTÀß†«WQÎàBs*6–"òOîN%Æ$‹‘√ΩÛg)€Ÿzú—‰éI57ç£ääFÄ∂&⁄œ<„†Ç10Ç-0Ç)0Ç†97«k˜”!òS§¢°îR/0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
 SSL Corporation10	UUS0261104111802Z271104111801Z0M10	UUS10U
 SSl Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ≤›W §¢∫øºÇ	≤Ï~ö|j>˝&ùˆ#zdÍµ9´3±ÀùüüLK≥/„æÁ}VŒµXl°/È@d¸·∞ıuî€ßæjH*àV#ïMJ˙ö,M/µp˜é&ÆR⁄8Ê<∫<o9î‡£ShoñyC]ÑÙ†9·Jìp¨ÖÜΩµ?°Æìi_⁄"]iÈ7• 5æk©´g¯  5JD?y¨JtyøüSj±øÏ∏*—G¨ø±ªÅhïHf"c9‹Ï⁄ÀrŸ√◊IÛËÌG.VòÅ~œÔÀÛóN¶zÊQÛm‡bÆ‘éê·Eúˆ∆GËÈâ„W„Ä2JTååy4jµ≠î.ã»¿¬§Üáá¿•_ÇÖ9hˇıÙòÀY†¬¨:ùïà"fn,_ÀAqÒY4≤88…˜Åˇ,GQ( •ö H±¥J=Cà ¡?ˆU"ƒÚ£Y˜≤÷ ˘dK˝ƒ®N4°^◊aÂ‡m¶πiõE°ß‘èH≥≈æ¡õ £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
 +	0UÀcól‚ù≠‡-e&¶:tiô0UˇÄ0	*ÜHÜ˜ Ç 
 r—⁄Z>t["_© /˚Ü2º&Í≈x“F}p91‹ádcwÏÜûÇ%z—æ√«∏ÆL“FåJÍ”•øØÅ@–Ò˝$~tñÜòâ; ﬁc˚'ÙsqH“PõÃhæÓÁmW'°Ÿñ˘ƒ@ÜÉ›ª~ÇÃ8–¥ñ»±rÇ@`åöÙq“Vòä
 å°+L8 Ö™ΩïöæﬁáÛ{ºa<f.√**(<uI\√ãV¨%∂3«!'y(’?ypπNŸÑ.ûÌu∞ƒ	‘Ó˙|Êgkñ€M†F	H√	Ô4—8%v»z@É∫a¸|Éº‚,„‚Yû∞VÖ6˝˘Î¢!ká-â3("Ö3zñWq\Aπo¬dFÈ[Ü“>ç~Ù˝}ÃîA÷™50ÃM"zÓÖÚÆ#ÿ€`ÉÏπÙ†KîÏ	Ú=S“ømjåˇø»÷∏Íê<UmiÓ¨kPIÿe¬⁄/ÚaË9í‡;O“ÒﬂΩ“
 ∏ã«ïtçPogZÒ∑f}∆ÿ=®/]êvä∞Ü<â¢6%ß5,®$ø–Q~·≈M”$R>•≠ﬂ¢¯gÓÓ˝˙ôíÛ:˛i(ÙeI÷`_˚ ◊‡ËPﬁÅ<	fÄ/à
-'U¥˚¶û*xW˘CÜ'Bx˛â◊≈Ï=.Ç¸eôkZYBÉÒ#Ü”≠≠%&hp¡‘ÿ˚'®ªLÏ¶ƒ∏5∑‹ïcpadY&v                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ˆY Ñ|˘¶∂ùÊåRo‰Éûyî	Ü’We‹`XÃFåJ≈ü]No¶Çò¥oò6Q€%ùDø¿€$qV%õÈú$π”≥óÃ@…x§=—d∏æ5√ëÓJõπ,D∂)û∂b=P≈$|j¬DNƒïhØTh”ê.Úz¸ùy<^)Œ(âZt^xßk›`˝˚Ù1údd©∆ÃiDÅë≤$e‡%WÇ'y™så´©˜d@Cg‚ÌõÔãœ“ tM»;Õ/å¶–Ã™‘ı± -*˜ã»%ŸY0ùœHg´âÖMXπ%›6E©N‚ÙEQâè \&Û®rïfw
+'U¥˚¶û*xW˘CÜ'Bx˛â◊≈Ï=.Ç¸eôkZYBÉÒ#Ü”≠≠%&hp¡‘ÿ˚'®ªLÏ¶ƒ∏5∑‹ïcpadY&t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ˆY wÚáøı`ÇÅ[wU¥
+´‰ÄoÛhµ4Ë†˛±*yEARY tÜÌ}wè_ßˆîÌ7ËÒ`;ng^`a6˘¯Je9À_+R+m·
+˚ñ'«q˜ì≠»çú◊Ï®uÈ‚·Ê˛5zùt;- ÿß[Øc≠:œ^Ä›Äæ5%ï\ùH5fí@f†§0√RW∫◊;Û*€ÛO%éé€ı¡â¯8mœ©√µßËÒè(‚ﬂêzj´.Œ	ãwvc´–{Ä´T|S+lÕ9únÑÚHÏ¿æ)]ï˘ç't"íØï¶¥˙ë0€ï¬ôJí`®‘¶1
+œ:JW∞D'{œ{w¡ÛÑ∞ˆô´¿ü„
 endstream
 endobj
 29 0 obj
@@ -409,12 +409,12 @@ endobj
 endobj
 xref
 1 1
-0000023685 00001 n 
+0000023690 00001 n 
 28 2
-0000023820 00000 n 
-0000048211 00000 n 
+0000023825 00000 n 
+0000048216 00000 n 
 trailer
-<< /Size 30 /Root 1 1 R /Prev 23058 >>
+<< /Size 30 /Root 1 1 R /Prev 23063 >>
 startxref
-48407
+48412
 %%EOF
